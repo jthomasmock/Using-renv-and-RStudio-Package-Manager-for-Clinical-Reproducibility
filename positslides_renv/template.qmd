@@ -5,6 +5,7 @@ title-slide-attributes:
   data-background-color: white
   data-background-image: _extensions/positslides/assets/backgrounds/sample-title-slide-option-1.png
   data-background-size: contain
+engine: knitr
 format:
   positslides-revealjs: 
     width: "1600"
